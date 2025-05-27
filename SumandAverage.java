@@ -7,7 +7,7 @@ public class SumandAverage {
     static void myMethod(String name){
         System.out.println(name);
     }
-     
+
       
     static void myMethod(String fname, String lname){
         System.out.println(fname+ " " + lname);
